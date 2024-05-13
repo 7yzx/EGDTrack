@@ -1,3 +1,7 @@
+'''
+copy from bts, do some modify
+'''
+
 import time
 import argparse
 import datetime
@@ -67,7 +71,7 @@ parser.add_argument('--bts_size', type=int, help='initial num_filters in bts', d
 parser.add_argument('--retrain', help='if used with checkpoint_path, will restart training from step zero',
                     action='store_true')
 parser.add_argument('--adam_eps', type=float, help='epsilon in Adam optimizer', default=1e-6)
-parser.add_argument('--batch_size', type=int, help='batch size', default=1)
+parser.add_argument('--batch_size', type=int, help='batch size', default=2)
 parser.add_argument('--num_epochs', type=int, help='number of epochs', default=30)
 parser.add_argument('--learning_rate', type=float, help='initial learning rate', default=1e-4)
 parser.add_argument('--end_learning_rate', type=float, help='end learning rate', default=-1)
@@ -477,9 +481,9 @@ def main_worker(gpu, ngpus_per_node, args):
 
     var_sum = [var.sum() for var in model.parameters() if var.requires_grad]
     var_cnt = len(var_sum)
-    var_sum = np.sum(var_sum)
+    # var_sum = np.sum(var_sum)
 
-    print("Initial variables' sum: {:.3f}, avg: {:.3f}".format(var_sum, var_sum / var_cnt))
+    # print("Initial variables' sum: {:.3f}, avg: {:.3f}".format(var_sum, var_sum / var_cnt))
     # bs=1 24231
     steps_per_epoch = len(dataloader.data)
     print("data_loader len", steps_per_epoch)

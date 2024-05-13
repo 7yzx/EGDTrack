@@ -21,7 +21,6 @@ python eval_nyu_with_inpaint.py --pred_path './result_gradonly/raw/' --is_crop '
 python eval_nyu_with_inpaint.py --pred_path './result_mask_392/raw/' --is_crop '2'
 python eval_nyu_with_inpaint.py --pred_path './result_mask_3987/raw/' --is_crop '2'
 python eval_nyu_with_inpaint.py --pred_path './result_mask_395/raw/' --is_crop '2'
-
 '''
 def convert_arg_line_to_args(arg_line):
     '''

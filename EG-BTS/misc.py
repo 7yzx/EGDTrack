@@ -1,3 +1,7 @@
+'''
+some tools simplify the code
+yzx
+'''
 import matplotlib
 import matplotlib.cm
 import matplotlib.pyplot as plt
