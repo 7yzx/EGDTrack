@@ -1,0 +1,48 @@
+[mycocoDeT_DiMP50_Mean_51]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_54]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_57]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_60]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_63]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_66]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_69]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_71]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_75]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_76]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_78]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_81]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_86]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_91]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_96]
+protocol = traxpython
+command = jjjjj
+[mycocoDeT_DiMP50_Mean_99]
+protocol = traxpython
+command = jjjjj
