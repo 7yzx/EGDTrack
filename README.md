@@ -78,7 +78,7 @@ EGDTrack在DepthTrack测试集上不同轮数的F分数结果展示
 
 ### 作者
 
-qq:2804006356      &ensp;email:2804006356@qq.com
+email:2804006356@qq.com
 
 ### 版权说明
 
