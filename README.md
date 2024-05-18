@@ -5,11 +5,11 @@
 
 <!-- PROJECT SHIELDS -->
 
-[Contributors][contributors-url]
-[Forks][forks-url]
-[Stargazers][stars-url]
-[Issues][issues-url]
-[MIT License][license-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 本科毕业论文，代码将在5月份更新，soon
 ![EGDTrack和DiMP在DepthTrack测试集上困难示例](./image/depthtrack_vis.png)
